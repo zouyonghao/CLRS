@@ -34,6 +34,8 @@ Solutions to *Introduction to Algorithms* by Charles E. Leiserson, Clifford Stei
 28. [zhanglanqing](https://github.com/zhanglanqing)
 29. [tushar-rishav](https://github.com/tushar-rishav)
 30. [ravgill](https://github.com/ravgill)
+31. [Mad_Kingu](https://github.com/Mad-Kingu)
+32. [kotoz](https://github.com/Kottoz)
 
 If I miss your name here, please pull a request to me to fix.
 
@@ -313,11 +315,6 @@ If a problem is too easy to solve, we'll mark it as **straightforward** in order
 
 # UNSOLVED
 
-[21.2.5](./C21-Data-Structures-for-Disjoint-Sets/21.2.md#exercises-212-5)
-[21.3.4](./C21-Data-Structures-for-Disjoint-Sets/21.3.md#exercises-213-4-)
-
-[24.4.9](./C24-Single-Source-Shortest-Paths/24.4.md#exercises-244-9-)
-
 [31.1.11](./C31-Number-Theoretic-Algorithms/31.1.md#exercises-311-11)
 [31.2.7](./C31-Number-Theoretic-Algorithms/31.2.md#exercises-312-7)
 [31.2.9](./C31-Number-Theoretic-Algorithms/31.2.md#exercises-312-9)
@@ -328,5 +325,6 @@ If a problem is too easy to solve, we'll mark it as **straightforward** in order
 
 ***
 Follow [@louis1992](https://github.com/gzc) on github to help finish this task.
+You can also subscribe my [youtube channel](https://www.youtube.com/channel/UCAvvkYnRNyObcHzOCaVgSrQ).
 
 <sub>**Disclaimer**: the solutions in this repository are crowdsourced work, and in any form it neither represents any opinion of nor affiliates to the authors of Introduction to Algorithms or the MIT press.<sub>
